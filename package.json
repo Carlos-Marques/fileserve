@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Carlos-Marques/fileserve#readme",
   "dependencies": {
+    "clipboardy": "^1.2.3",
     "express": "^4.16.4"
   }
 }
